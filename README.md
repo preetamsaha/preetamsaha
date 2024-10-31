@@ -13,5 +13,5 @@ Welcome to my portfolio. All my projects can be found [here]().
 **🛠️Tools**
 - Languages: Basic knowledge of the following: Python, SQL, R
 - Database: MySQL, Google Sheets
-- Visualization: Tableau, PowerBI, Excel
+- Visualization: Tableau, PowerBI, Excel, Jupyter Notebook, R Markdown
 
